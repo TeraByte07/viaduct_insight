@@ -1,0 +1,8 @@
+.env
+secret.py
+*.db
+*.sqlite3
+
+# Python caches
+__pycache__/
+*.pyc
